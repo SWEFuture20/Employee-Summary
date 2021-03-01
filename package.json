@@ -1,0 +1,27 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "In this app, I will be creating an app through Node.js to create different employees for a company. I will be using different technologies such as HTML, CSS, JS, Node, Inquirer, Jest.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWEFuture20/Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWEFuture20/Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/SWEFuture20/Employee-Summary#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0",
+    "jest": "^26.6.3"
+  }
+}
